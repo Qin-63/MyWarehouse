@@ -1,0 +1,8 @@
+".\Output\main.obj",
+".\Output\STARTUP.obj",
+".\Output\delay.obj",
+".\Output\key.obj",
+".\Output\seg.obj",
+".\Output\tim.obj" 
+TO ".\Output\°ËÂ·ÇÀ´ðÆ÷" 
+PRINT(".\Listings\°ËÂ·ÇÀ´ðÆ÷.m51") RAMSIZE(256) 
